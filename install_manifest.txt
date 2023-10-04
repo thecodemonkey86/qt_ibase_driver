@@ -1,0 +1,8 @@
+C:/Qt/Qt5.12/6.5.2/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginConfig.cmake
+C:/Qt/Qt5.12/6.5.2/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginConfigVersion.cmake
+C:/Qt/Qt5.12/6.5.2/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginConfigVersionImpl.cmake
+C:/Qt/Qt5.12/6.5.2/mingw_64/./plugins/sqldrivers/qsqlibase.dll
+C:/Qt/Qt5.12/6.5.2/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargets.cmake
+C:/Qt/Qt5.12/6.5.2/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginTargets-relwithdebinfo.cmake
+C:/Qt/Qt5.12/6.5.2/mingw_64/./plugins/sqldrivers/qsqlibase.debug
+C:/Qt/Qt5.12/6.5.2/mingw_64/lib/cmake/Qt6Sql/Qt6QIBaseDriverPluginAdditionalTargetInfo.cmake

@@ -1,0 +1,1 @@
+-top-level -sql-ibase -DInterbase_INCLUDE_DIR="E:\qt_creator\libs\firebird\include" -DInterbase__LIBRARY="E:\qt_creator\libs\firebird\lib\fbclient_ms.lib"
